@@ -1,7 +1,9 @@
 ### Project Documentation
 
 #### Project Name
-Website Project
+Round Slider Project
+
+Live Demo===>>>https://andrascsorba.github.io/Round-Slider-project/
 
 #### Description
 This project is a simple website using HTML and CSS. The website includes a navigation menu, a header, and an image slider.
