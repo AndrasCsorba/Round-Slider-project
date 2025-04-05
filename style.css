@@ -148,7 +148,7 @@ header{
     transform: translateY(0);
 }
 
-/* item phía sau */
+/* item */
 .slider .list .item.active ~ .item{
     opacity: 0;
 }
